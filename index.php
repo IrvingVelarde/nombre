@@ -28,6 +28,7 @@ $(document).ready(function () {
 </head>
 <body>
 <nav class="navbar navbar-default">
+        <div class="container">
   <div class="container"> 
     <!-- Brand and toggle get grouped for better mobile display -->
     <div class="navbar-header">
